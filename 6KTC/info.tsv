@@ -1,0 +1,16 @@
+field	value
+pdb_id	6KTC
+modification	5MC
+nmr_model1_only	False
+receptor_type	monomer
+source_protein_chains	A
+protein_residues	74
+protein_segid	A
+source_rna_chain	V
+rna_segid	B
+rna_length	4
+rna_sequence	G-5MC-C-U
+target_resid_segB	2
+active_prot_res	14
+active_rna_res	4
+air_assigns	18

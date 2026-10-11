@@ -1,0 +1,16 @@
+field	value
+pdb_id	7Z26
+modification	6MZ
+nmr_model1_only	False
+receptor_type	monomer
+source_protein_chains	A
+protein_residues	150
+protein_segid	A
+source_rna_chain	D
+rna_segid	B
+rna_length	3
+rna_sequence	6MZ-C-U
+target_resid_segB	1
+active_prot_res	24
+active_rna_res	3
+air_assigns	27

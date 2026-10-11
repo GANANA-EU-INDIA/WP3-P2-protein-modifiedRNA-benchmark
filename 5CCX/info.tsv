@@ -1,0 +1,16 @@
+field	value
+pdb_id	5CCX
+modification	1MA
+nmr_model1_only	False
+receptor_type	monomer
+source_protein_chains	B
+protein_residues	371
+protein_segid	A
+source_rna_chain	N
+rna_segid	B
+rna_length	77
+rna_sequence	G-G-C-C-C-G-G-A-U-A-G-C-U-C-A-G-U-C-G-G-U-A-G-A-G-C-A-U-C-A-G-A-C-U-U-U-U-A-A-U-C-U-G-A-G-G-G-U-C-C-A-G-G-G-U-U-C-A-1MA-G-U-C-C-C-U-G-U-U-C-G-G-G-C-G-C-C-A
+target_resid_segB	59
+active_prot_res	50
+active_rna_res	27
+air_assigns	77

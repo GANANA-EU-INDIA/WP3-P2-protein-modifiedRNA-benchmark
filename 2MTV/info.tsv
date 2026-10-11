@@ -1,0 +1,16 @@
+field	value
+pdb_id	2MTV
+modification	6MZ
+nmr_model1_only	True
+receptor_type	monomer
+source_protein_chains	A
+protein_residues	156
+protein_segid	A
+source_rna_chain	B
+rna_segid	B
+rna_length	6
+rna_sequence	U-G-6MZ-C-A-C
+target_resid_segB	3
+active_prot_res	29
+active_rna_res	6
+air_assigns	35

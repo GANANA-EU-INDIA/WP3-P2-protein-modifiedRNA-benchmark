@@ -1,0 +1,16 @@
+field	value
+pdb_id	9NHC
+modification	A2M
+nmr_model1_only	False
+receptor_type	multi-subunit(merged)
+source_protein_chains	A+E+F
+protein_residues	1155
+protein_segid	A
+source_rna_chain	B
+rna_segid	B
+rna_length	25
+rna_sequence	U-G-G-A-G-U-G-U-G-A-C-A-A-U-G-G-U-G-U-U-U-G-A-U-A2M
+target_resid_segB	25
+active_prot_res	91
+active_rna_res	23
+air_assigns	114

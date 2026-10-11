@@ -1,0 +1,13 @@
+# HADDOCK3 run output
+run_dock/
+*/run_dock/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/

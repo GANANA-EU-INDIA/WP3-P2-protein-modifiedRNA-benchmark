@@ -1,0 +1,16 @@
+field	value
+pdb_id	7V4G
+modification	6MZ
+nmr_model1_only	False
+receptor_type	monomer
+source_protein_chains	B
+protein_residues	214
+protein_segid	A
+source_rna_chain	E
+rna_segid	B
+rna_length	4
+rna_sequence	G-G-6MZ-C
+target_resid_segB	3
+active_prot_res	26
+active_rna_res	4
+air_assigns	30

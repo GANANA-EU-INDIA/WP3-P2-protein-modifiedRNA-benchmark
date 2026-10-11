@@ -1,0 +1,387 @@
+! Bound true-interface AIRs <=5A 7DID (protein=segid A, rna=segid B)
+assign ( resid 195 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 196 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 199 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 201 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 203 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 204 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 246 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 306 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 351 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 352 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 353 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 355 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 378 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 381 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 382 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 385 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 386 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 389 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 406 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 408 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 464 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 468 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 469 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 470 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 479 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 481 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 482 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 487 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 488 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 489 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 491 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 492 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 495 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 496 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 1 and segid B )
+       (
+            ( resid 195 and segid A )
+         or ( resid 196 and segid A )
+         or ( resid 199 and segid A )
+         or ( resid 201 and segid A )
+         or ( resid 203 and segid A )
+         or ( resid 204 and segid A )
+         or ( resid 246 and segid A )
+         or ( resid 306 and segid A )
+         or ( resid 351 and segid A )
+         or ( resid 352 and segid A )
+         or ( resid 353 and segid A )
+         or ( resid 355 and segid A )
+         or ( resid 378 and segid A )
+         or ( resid 381 and segid A )
+         or ( resid 382 and segid A )
+         or ( resid 385 and segid A )
+         or ( resid 386 and segid A )
+         or ( resid 389 and segid A )
+         or ( resid 406 and segid A )
+         or ( resid 408 and segid A )
+         or ( resid 464 and segid A )
+         or ( resid 468 and segid A )
+         or ( resid 469 and segid A )
+         or ( resid 470 and segid A )
+         or ( resid 479 and segid A )
+         or ( resid 481 and segid A )
+         or ( resid 482 and segid A )
+         or ( resid 487 and segid A )
+         or ( resid 488 and segid A )
+         or ( resid 489 and segid A )
+         or ( resid 491 and segid A )
+         or ( resid 492 and segid A )
+         or ( resid 495 and segid A )
+         or ( resid 496 and segid A )
+       )  2.0 2.0 0.0
+assign ( resid 2 and segid B )
+       (
+            ( resid 195 and segid A )
+         or ( resid 196 and segid A )
+         or ( resid 199 and segid A )
+         or ( resid 201 and segid A )
+         or ( resid 203 and segid A )
+         or ( resid 204 and segid A )
+         or ( resid 246 and segid A )
+         or ( resid 306 and segid A )
+         or ( resid 351 and segid A )
+         or ( resid 352 and segid A )
+         or ( resid 353 and segid A )
+         or ( resid 355 and segid A )
+         or ( resid 378 and segid A )
+         or ( resid 381 and segid A )
+         or ( resid 382 and segid A )
+         or ( resid 385 and segid A )
+         or ( resid 386 and segid A )
+         or ( resid 389 and segid A )
+         or ( resid 406 and segid A )
+         or ( resid 408 and segid A )
+         or ( resid 464 and segid A )
+         or ( resid 468 and segid A )
+         or ( resid 469 and segid A )
+         or ( resid 470 and segid A )
+         or ( resid 479 and segid A )
+         or ( resid 481 and segid A )
+         or ( resid 482 and segid A )
+         or ( resid 487 and segid A )
+         or ( resid 488 and segid A )
+         or ( resid 489 and segid A )
+         or ( resid 491 and segid A )
+         or ( resid 492 and segid A )
+         or ( resid 495 and segid A )
+         or ( resid 496 and segid A )
+       )  2.0 2.0 0.0
+assign ( resid 3 and segid B )
+       (
+            ( resid 195 and segid A )
+         or ( resid 196 and segid A )
+         or ( resid 199 and segid A )
+         or ( resid 201 and segid A )
+         or ( resid 203 and segid A )
+         or ( resid 204 and segid A )
+         or ( resid 246 and segid A )
+         or ( resid 306 and segid A )
+         or ( resid 351 and segid A )
+         or ( resid 352 and segid A )
+         or ( resid 353 and segid A )
+         or ( resid 355 and segid A )
+         or ( resid 378 and segid A )
+         or ( resid 381 and segid A )
+         or ( resid 382 and segid A )
+         or ( resid 385 and segid A )
+         or ( resid 386 and segid A )
+         or ( resid 389 and segid A )
+         or ( resid 406 and segid A )
+         or ( resid 408 and segid A )
+         or ( resid 464 and segid A )
+         or ( resid 468 and segid A )
+         or ( resid 469 and segid A )
+         or ( resid 470 and segid A )
+         or ( resid 479 and segid A )
+         or ( resid 481 and segid A )
+         or ( resid 482 and segid A )
+         or ( resid 487 and segid A )
+         or ( resid 488 and segid A )
+         or ( resid 489 and segid A )
+         or ( resid 491 and segid A )
+         or ( resid 492 and segid A )
+         or ( resid 495 and segid A )
+         or ( resid 496 and segid A )
+       )  2.0 2.0 0.0
+assign ( resid 4 and segid B )
+       (
+            ( resid 195 and segid A )
+         or ( resid 196 and segid A )
+         or ( resid 199 and segid A )
+         or ( resid 201 and segid A )
+         or ( resid 203 and segid A )
+         or ( resid 204 and segid A )
+         or ( resid 246 and segid A )
+         or ( resid 306 and segid A )
+         or ( resid 351 and segid A )
+         or ( resid 352 and segid A )
+         or ( resid 353 and segid A )
+         or ( resid 355 and segid A )
+         or ( resid 378 and segid A )
+         or ( resid 381 and segid A )
+         or ( resid 382 and segid A )
+         or ( resid 385 and segid A )
+         or ( resid 386 and segid A )
+         or ( resid 389 and segid A )
+         or ( resid 406 and segid A )
+         or ( resid 408 and segid A )
+         or ( resid 464 and segid A )
+         or ( resid 468 and segid A )
+         or ( resid 469 and segid A )
+         or ( resid 470 and segid A )
+         or ( resid 479 and segid A )
+         or ( resid 481 and segid A )
+         or ( resid 482 and segid A )
+         or ( resid 487 and segid A )
+         or ( resid 488 and segid A )
+         or ( resid 489 and segid A )
+         or ( resid 491 and segid A )
+         or ( resid 492 and segid A )
+         or ( resid 495 and segid A )
+         or ( resid 496 and segid A )
+       )  2.0 2.0 0.0

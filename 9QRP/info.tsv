@@ -1,0 +1,16 @@
+field	value
+pdb_id	9QRP
+modification	PSU
+nmr_model1_only	False
+receptor_type	multi-subunit(merged)
+source_protein_chains	A+B
+protein_residues	815
+protein_segid	A
+source_rna_chain	T
+rna_segid	B
+rna_length	86
+rna_sequence	G-G-A-G-A-G-G-U-G-C-C-C-G-A-G-U-G-G-C-U-G-A-A-G-G-G-A-C-A-C-G-A-A-A-U-C-G-U-G-U-A-G-G-G-G-G-G-C-U-U-A-A-A-C-C-U-C-C-C-U-C-G-C-G-G-G-PSU-C-G-A-A-U-C-C-C-G-C-C-C-U-C-U-C-C-G-C
+target_resid_segB	67
+active_prot_res	46
+active_rna_res	28
+air_assigns	74

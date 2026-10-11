@@ -1,0 +1,16 @@
+field	value
+pdb_id	7L6R
+modification	A2M
+nmr_model1_only	False
+receptor_type	multi-subunit(merged)
+source_protein_chains	A+B
+protein_residues	409
+protein_segid	A
+source_rna_chain	C
+rna_segid	B
+rna_length	5
+rna_sequence	A2M-U-U-A-A
+target_resid_segB	1
+active_prot_res	22
+active_rna_res	4
+air_assigns	26

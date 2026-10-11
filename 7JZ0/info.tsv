@@ -1,0 +1,16 @@
+field	value
+pdb_id	7JZ0
+modification	A2M
+nmr_model1_only	False
+receptor_type	monomer
+source_protein_chains	C
+protein_residues	298
+protein_segid	A
+source_rna_chain	F
+rna_segid	B
+rna_length	4
+rna_sequence	A2M-U-U-A
+target_resid_segB	1
+active_prot_res	23
+active_rna_res	3
+air_assigns	26

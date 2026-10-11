@@ -1,0 +1,16 @@
+field	value
+pdb_id	6ZOT
+modification	6MZ
+nmr_model1_only	False
+receptor_type	multi-subunit(merged)
+source_protein_chains	A+B
+protein_residues	330
+protein_segid	A
+source_rna_chain	C
+rna_segid	B
+rna_length	4
+rna_sequence	G-6MZ-C-U
+target_resid_segB	2
+active_prot_res	27
+active_rna_res	4
+air_assigns	31

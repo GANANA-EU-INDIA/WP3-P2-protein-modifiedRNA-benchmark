@@ -1,0 +1,16 @@
+field	value
+pdb_id	6A6J
+modification	5MC
+nmr_model1_only	False
+receptor_type	multi-subunit(merged)
+source_protein_chains	A+C
+protein_residues	180
+protein_segid	A
+source_rna_chain	D
+rna_segid	B
+rna_length	5
+rna_sequence	C-A-U-5MC-U
+target_resid_segB	4
+active_prot_res	17
+active_rna_res	5
+air_assigns	22

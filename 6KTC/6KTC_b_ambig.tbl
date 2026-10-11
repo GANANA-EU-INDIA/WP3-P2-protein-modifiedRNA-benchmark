@@ -1,0 +1,167 @@
+! Bound true-interface AIRs <=5A 6KTC (protein=segid A, rna=segid B)
+assign ( resid 13 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 14 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 16 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 19 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 21 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 23 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 32 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 34 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 36 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 38 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 63 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 64 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 65 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 66 and segid A )
+       (
+            ( resid 1 and segid B )
+         or ( resid 2 and segid B )
+         or ( resid 3 and segid B )
+         or ( resid 4 and segid B )
+       )  2.0 2.0 0.0
+assign ( resid 1 and segid B )
+       (
+            ( resid 13 and segid A )
+         or ( resid 14 and segid A )
+         or ( resid 16 and segid A )
+         or ( resid 19 and segid A )
+         or ( resid 21 and segid A )
+         or ( resid 23 and segid A )
+         or ( resid 32 and segid A )
+         or ( resid 34 and segid A )
+         or ( resid 36 and segid A )
+         or ( resid 38 and segid A )
+         or ( resid 63 and segid A )
+         or ( resid 64 and segid A )
+         or ( resid 65 and segid A )
+         or ( resid 66 and segid A )
+       )  2.0 2.0 0.0
+assign ( resid 2 and segid B )
+       (
+            ( resid 13 and segid A )
+         or ( resid 14 and segid A )
+         or ( resid 16 and segid A )
+         or ( resid 19 and segid A )
+         or ( resid 21 and segid A )
+         or ( resid 23 and segid A )
+         or ( resid 32 and segid A )
+         or ( resid 34 and segid A )
+         or ( resid 36 and segid A )
+         or ( resid 38 and segid A )
+         or ( resid 63 and segid A )
+         or ( resid 64 and segid A )
+         or ( resid 65 and segid A )
+         or ( resid 66 and segid A )
+       )  2.0 2.0 0.0
+assign ( resid 3 and segid B )
+       (
+            ( resid 13 and segid A )
+         or ( resid 14 and segid A )
+         or ( resid 16 and segid A )
+         or ( resid 19 and segid A )
+         or ( resid 21 and segid A )
+         or ( resid 23 and segid A )
+         or ( resid 32 and segid A )
+         or ( resid 34 and segid A )
+         or ( resid 36 and segid A )
+         or ( resid 38 and segid A )
+         or ( resid 63 and segid A )
+         or ( resid 64 and segid A )
+         or ( resid 65 and segid A )
+         or ( resid 66 and segid A )
+       )  2.0 2.0 0.0
+assign ( resid 4 and segid B )
+       (
+            ( resid 13 and segid A )
+         or ( resid 14 and segid A )
+         or ( resid 16 and segid A )
+         or ( resid 19 and segid A )
+         or ( resid 21 and segid A )
+         or ( resid 23 and segid A )
+         or ( resid 32 and segid A )
+         or ( resid 34 and segid A )
+         or ( resid 36 and segid A )
+         or ( resid 38 and segid A )
+         or ( resid 63 and segid A )
+         or ( resid 64 and segid A )
+         or ( resid 65 and segid A )
+         or ( resid 66 and segid A )
+       )  2.0 2.0 0.0
